@@ -46,3 +46,8 @@ public class Contador {
 	}
 }
 ```
+
+## Solução do desafio
+Segue abaixo o link para a minha solução do desafio.
+
+[Solução do desafio](https://github.com/Edson-Mendes/controle-fluxo/blob/main/src/main/java/com/emendes/Contador.java).
